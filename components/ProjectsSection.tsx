@@ -6,27 +6,12 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Breizh Littoral",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
+      "Projet de fin d'étude réalisé en équipe, un site qui recense les spots de sports nautiques en Bretagne.",
+    image: "/bzhlittoral.png",
     github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
-  },
-  {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
-  },
-  {
-    name: "Kator Family Photos",
-    description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    link: "http://breizh-littoral.surge.sh/",
   },
 ]
 
@@ -34,7 +19,7 @@ const ProjectsSection = () => {
   return (
     <section id="projects">
       <h1 className="my-10 text-center font-bold text-4xl">
-        Projects
+        Projets
         <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded"></hr>
       </h1>
 
@@ -49,8 +34,8 @@ const ProjectsSection = () => {
                       <Image
                         src={project.image}
                         alt=""
-                        width={1000}
-                        height={1000}
+                        width={1500}
+                        height={1500}
                         className="rounded-xl shadow-xl hover:opacity-70"
                       />
                     </Link>

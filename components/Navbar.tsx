@@ -14,16 +14,20 @@ interface NavItem {
 
 const NAV_ITEMS: Array<NavItem> = [
   {
-    label: "Home",
+    label: "Accueil",
     page: "home",
   },
   {
-    label: "About",
+    label: "Parcours",
     page: "about",
   },
   {
-    label: "Projects",
+    label: "Projets",
     page: "projects",
+  },
+  {
+    label: "Contact",
+    page: "contact",
   },
 ]
 
@@ -37,9 +41,9 @@ export default function Navbar() {
       <div className="justify-between md:items-center md:flex">
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
-            <Link to="home">
+            <Link to="home" className="hover:cursor-pointer">
               <div className="container flex items-center space-x-2">
-                <h2 className="text-2xl font-bold">Hosna Qasmei</h2>
+                <h2 className="text-2xl font-bold">Brice Juhel</h2>
               </div>
             </Link>
             <div className="md:hidden">
@@ -66,7 +70,7 @@ export default function Navbar() {
                     key={idx}
                     to={item.page}
                     className={
-                      "block lg:inline-block text-neutral-900  hover:text-neutral-500 dark:text-neutral-100"
+                      "block lg:inline-block text-neutral-900 hover:cursor-pointer hover:text-teal-600 dark:text-neutral-100"
                     }
                     activeClass="active"
                     spy={true}
