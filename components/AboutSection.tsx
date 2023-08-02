@@ -27,18 +27,18 @@ const AboutSection = () => {
           <div className="md:w-1/2 ">
 
             <p>
-              Après une expérience de 12 années dans le commerce et le management, ma passion pour l'informatique m'a rattrapé et j'ai décidé de me reconvertir il y a un an.
+              Après une expérience de 12 années dans le commerce et le management, ma passion pour l&apos;informatique m&apos;a rattrapé et j&apos;ai décidé de me reconvertir il y a un an.
               </p>
               <br />
             <p>
-              Grâce à une transition professionnelle, j'ai effectué une formation intense de 6 mois avec l'école O'Clock, ce qui m'a permis d'acquérir des bases solides en HTML/CSS, JavaScript et PHP.
+              Grâce à une transition professionnelle, j&apos;ai effectué une formation intense de 6 mois avec l&apos;école O&apos;Clock, ce qui m&apos;a permis d&apos;acquérir des bases solides en HTML/CSS, JavaScript et PHP.
               Pendant cette formation, je me suis spécialisé sur le framework Symfony.
               </p>
               <p>
-              Lors du dernier mois de cette formation nous avons réalisé par équipe de cinq un projet de A à Z. Le notre s'appelle Breizh Littoral et vous pouvez trouver le lien dans mes projets. J'ai d'ailleurs eu le rôle de Scrum Master tout au long de ce projet.
+              Lors du dernier mois de cette formation nous avons réalisé par équipe de cinq un projet de A à Z. Le notre s&apos;appelle Breizh Littoral et vous pouvez trouver le lien dans mes projets. J&apos;ai d&apos;ailleurs eu le rôle de Scrum Master tout au long de ce projet.
             </p>
             <p>
-              Pour finir, j'ai passé l'examen du titre professionnel de développeur web et web mobile fin juillet 2023 et je suis en attente des résultats.
+              Pour finir, j&apos;ai passé l&apos;examen du titre professionnel de développeur web et web mobile fin juillet 2023 et je suis en attente des résultats.
             </p>
             <br />
             <p>

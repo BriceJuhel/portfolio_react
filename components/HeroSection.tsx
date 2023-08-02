@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               développeur web{" "}
             </span>
-            et voici mon portfolio. Je suis actuellement à la recherche d'un nouveau poste, en front-end et/ou en back-end. J'espère que vous apprécierez mes projets !
+            et voici mon portfolio. Je suis actuellement à la recherche d&apos;un nouveau poste, en front-end et/ou en back-end. J&apos;espère que vous apprécierez mes projets !
           </p>
           <a
             href="/cv-brice-juhel.pdf"
