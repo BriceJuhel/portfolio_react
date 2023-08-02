@@ -27,7 +27,7 @@ const AboutSection = () => {
           <div className="md:w-1/2 ">
 
             <p>
-              Après une expérience de 12 années dans le commerce et le management, ma passion pour l&apos;informatique m&apos;a rattrapé et j&apos;ai décidé de me reconvertir il y a un an.
+              Après une expérience de 12 années dans le commerce et le management, ma passion pour l&apos;informatique m&apos;a rattrapée et j&apos;ai décidé de me reconvertir depuis septembre 2022.
               </p>
               <br />
             <p>
