@@ -10,8 +10,16 @@ const projects = [
     description:
       "Projet de fin d'étude réalisé en équipe, un site qui recense les spots de sports nautiques en Bretagne.",
     image: "/bzhlittoral.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
+    github: "https://github.com/orgs/O-clock-Photon-Proton-Apotheose/teams/team-16-breizh-littoral/repositories",
     link: "http://breizh-littoral.surge.sh/",
+  },
+  {
+    name: "Pokédex",
+    description:
+      "Pokédex réalisé afin de prendre en main les outils React, NextJS, et Tailwind CSS.",
+    image: "/pokedex.png",
+    github: "https://github.com/BriceJuhel/pokedex",
+    link: "https://bricejuhel-pokedex.vercel.app/",
   },
 ]
 
