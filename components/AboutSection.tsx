@@ -38,7 +38,7 @@ const AboutSection = () => {
               Lors du dernier mois de cette formation nous avons réalisé par équipe de cinq un projet de A à Z. Le notre s&apos;appelle Breizh Littoral et vous pouvez trouver le lien dans mes projets. J&apos;ai d&apos;ailleurs eu le rôle de Scrum Master tout au long de ce projet.
             </p>
             <p>
-              Pour finir, j&apos;ai passé l&apos;examen du titre professionnel de développeur web et web mobile fin juillet 2023 et je suis en attente des résultats.
+              Pour finir, j&apos;ai passé l&apos;examen du titre professionnel de développeur web et web mobile fin juillet 2023 et obtenu mon diplôme.
             </p>
             <br />
             <p>
