@@ -8,7 +8,7 @@ const projects = [
   {
     name: "Breizh Littoral",
     description:
-      "Projet de fin d'étude réalisé en équipe, un site qui recense les spots de sports nautiques en Bretagne.",
+      "Projet de fin d'étude réalisé en équipe, un site qui recense les spots de sports nautiques en Bretagne. Réalisé avec React pour le front et Symfony pour le back.",
     image: "/bzhlittoral.png",
     github: "https://github.com/orgs/O-clock-Photon-Proton-Apotheose/teams/team-16-breizh-littoral/repositories",
     link: "http://breizh-littoral.surge.sh/",
