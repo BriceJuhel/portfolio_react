@@ -16,10 +16,18 @@ const projects = [
   {
     name: "Pokédex",
     description:
-      "Pokédex réalisé afin de prendre en main les outils React, NextJS, et Tailwind CSS.",
+      "Pokédex réalisé avec React, NextJS, et Tailwind CSS. L'API utilisée est Pokebuild. J'ai également ajouté un jeu où l'on doit deviner des pokémons choisis aléatoirement.",
     image: "/pokedex.png",
     github: "https://github.com/BriceJuhel/pokedex",
     link: "https://bricejuhel-pokedex.vercel.app/",
+  },
+  {
+    name: "App Météo",
+    description:
+      "App météo en cours de construction, elle permet pour le moment de voir le temps qu'il fait en ce moment dans la ville recherchée. Prochaines améliorations prévues : ajout de la météo du lendemain, ajout des températures mini et maxi sur la journée. Réalisé avec React et l'API Open Weather.",
+    image: "/app-meteo.png",
+    github: "https://github.com/BriceJuhel/app-meteo",
+    link: "https://bricejuhel-app-meteo.vercel.app/",
   },
 ]
 
