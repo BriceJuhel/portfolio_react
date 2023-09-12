@@ -24,7 +24,7 @@ const projects = [
   {
     name: "App Météo",
     description:
-      "App météo qui permet pour le moment de voir le temps qu'il fait en ce moment dans la ville recherchée. Réalisé avec React et l'API Open Weather.",
+      "App météo qui permet de voir le temps qu'il fait en ce moment dans la ville recherchée. Réalisé avec React et l'API Open Weather.",
     image: "/app-meteo.png",
     github: "https://github.com/BriceJuhel/app-meteo",
     link: "https://bricejuhel-app-meteo.vercel.app/",
