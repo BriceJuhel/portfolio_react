@@ -42,9 +42,9 @@ export default function Navbar() {
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
             <Link to="home" className="hover:cursor-pointer">
-              <div className="container flex items-center space-x-2">
+              {/* <div className="container flex items-center space-x-2"> */}
                 <h2 className="text-2xl font-bold">Brice Juhel</h2>
-              </div>
+              {/* </div> */}
             </Link>
             <div className="md:hidden">
               <button
