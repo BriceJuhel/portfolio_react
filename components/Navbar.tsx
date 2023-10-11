@@ -41,10 +41,14 @@ export default function Navbar() {
       <div className="justify-between md:items-center md:flex">
         <div>
           <div className="flex items-center justify-between py-3 md:py-5 md:block">
-            <Link to="home" className="hover:cursor-pointer text-2xl font-bold">
-              {/* <div className="container flex items-center space-x-2"> */}
+            <Link 
+            to="home" 
+            className="hover:cursor-pointer text-2xl font-bold"
+            spy={true}
+            smooth={true}
+            offset={-100}
+            duration={500}>
                 Brice Juhel
-              {/* </div> */}
             </Link>
             <div className="md:hidden">
               <button
