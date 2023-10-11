@@ -14,6 +14,14 @@ const projects = [
     link: "http://breizh-littoral.surge.sh/",
   },
   {
+    name: "Carva",
+    description:
+      "Projet en cours de réalisation, site vitrine pour une entreprise de réparation et services automobile, réalisé avec React et NextJS",
+    image: "/carva.png",
+    github: "https://github.com/BriceJuhel/carva",
+    link: "https://carva.vercel.app/",
+  },
+  {
     name: "Pokédex",
     description:
       "Pokédex réalisé avec React, NextJS, et Tailwind CSS. L'API utilisée est Pokebuild. J'ai également ajouté un jeu où l'on doit deviner des pokémons choisis aléatoirement.",
