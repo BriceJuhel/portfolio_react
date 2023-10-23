@@ -23,7 +23,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               développeur web{" "}
             </span>
-            et actuellement à la recherche d&apos;un nouveau poste, en front-end et/ou en back-end. Vous trouverez sur cette page les différents projets sur lesquels j&apos;ai travaillé, j&apos;espère que vous les apprécierez :)
+            et actuellement à la recherche d&apos;un nouveau poste, en front-end et/ou en back-end. Vous trouverez sur cette page les différents projets sur lesquels j&apos;ai travaillé, j&apos;espère que vous les apprécierez !
           </p>
           <a
             href="/cv-brice-juhel.pdf"
